@@ -34,7 +34,7 @@ I believe that English is the most important programming language today. My jour
 
 ### [Prompt Test](https://prompttest.pages.dev/)
 A comprehensive workbench to test and compare different LLMs and models. 
-* **Integrations:** Gemini, Groq, Hugging Face, Claude, and Sambanova.
+* **Integrations:** Gemini, Groq, Hugging Face, Claude, and Sarvam.
 * **Feature:** Dynamic model management—add or remove models on the fly.
 
 ### [Quest Code AI](https://questcodeai.pages.dev/)
